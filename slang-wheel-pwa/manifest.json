@@ -1,0 +1,21 @@
+{
+  "name": "Salvadoran Slang Wheel",
+  "short_name": "Slang Wheel",
+  "description": "Spin the wheel to learn Salvadoran slang words and phrases!",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0055a4",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
